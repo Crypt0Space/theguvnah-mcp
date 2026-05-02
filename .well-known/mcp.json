@@ -1,0 +1,17 @@
+{
+  "name": "TheGuvnah Trading Frameworks",
+    "description": "MCP server exposing TheGuvnah's crypto trading frameworks as queryable tools for AI agents",
+      "url": "https://theguvnah-mcp.vercel.app",
+        "tools": [
+            "analyze_btc_dominance",
+                "analyze_ema_framework",
+                    "analyze_smart_money",
+                        "calculate_risk",
+                            "analyze_market_cycle",
+                                "analyze_sentiment",
+                                    "get_positioning_framework"
+                                      ],
+                                        "author": "TheGuvnah",
+                                          "homepage": "https://www.theguvnah.com",
+                                            "repository": "https://github.com/Crypt0Space/theguvnah-mcp"
+                                            }
